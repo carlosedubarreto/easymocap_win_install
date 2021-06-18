@@ -17,3 +17,13 @@ install it using
 if you are a linux user, maybe this command will be better to install labelme (thanks to HacktopS https://twitter.com/HacktopS for the tip)
 
 `sudo apt-get install labelme`
+
+
+Attention
+
+There is a huge thing that the tutorial We've done is missing, to say that you should run the installation script for easymocp
+
+https://github.com/zju3dv/EasyMocap/blob/master/doc/installation.md#3-install
+
+that says to run this line
+`python3 setup.py develop --user`
